@@ -1,3 +1,5 @@
+alert("Created By: simplecalc12");
+
 function getHistory(){
 	return document.getElementById("history-value").innerText;
 }
